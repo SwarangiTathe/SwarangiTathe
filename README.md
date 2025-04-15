@@ -71,15 +71,14 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50"/>
 </p>
-
 --------------------------------------------
 
 ## 📈 Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="450" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&layout=compact" width="450" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=YashPalkandwar1908&theme=monokai&hide_border=true" width="450" height="220" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwarangiTathe&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarangiTathe&theme=monokai&show_icons=true&hide_border=true&layout=compact" width="450" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=SwarangiTathe&theme=monokai&hide_border=true" width="450" height="220" alt="GitHub Streak"/>
 </div>
 
 
