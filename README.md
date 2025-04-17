@@ -4,15 +4,15 @@
 
 <!-- Connect with me Socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashpalkandwar" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/swarangitathe" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ypalkandwar@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:tatheswarangi@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Yash_Palkandwar" target="_blank" style="text-decoration: none;">
+  <a href="https://x.com/SwarangiTathe" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 --------------------------------------------
 
 👨🏻‍💻 **About Me** ✨ Fullstack Intern at algin Infotech <br>
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yashpalkandwar/)<br>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swarangitathe)<br>
 💬 Ask me about: FullStack Developement | Python | UI<br>
 
 --------------------------------------------
